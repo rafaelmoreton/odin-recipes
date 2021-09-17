@@ -1,0 +1,46 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(224, 188, 70);
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 5px solid rgb(0, 0, 0);
+    color: #810000;
+    font-weight: bold;
+    font-size: 3em;
+    text-shadow: 2px 2px 2px rgb(255, 230, 0);
+}
+
+li {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+#credits {
+    font-size: 0.4em;
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+}
+
+#links {
+    font-size: 1.5em;
+}
+
+#links li {
+    margin-top: 15px;
+}
